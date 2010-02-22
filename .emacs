@@ -4,3 +4,5 @@
 ;;(load "my-add-meadow-default")
 (load "my-add-customize-js2-mode")
 (load "my-add-customize-default")
+(require 'jaspace)
+(require 'what-char)
